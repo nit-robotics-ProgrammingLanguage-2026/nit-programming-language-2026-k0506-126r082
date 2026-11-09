@@ -12,8 +12,7 @@ int main(void)
         return 0;
     }
 
-    double result = radius * radius * 22.0;
-    printf("%.2f", result);
+    printf("%.2f", radius * radius * 22.0);
 
     return 0;
 }
